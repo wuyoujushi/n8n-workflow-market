@@ -1,0 +1,7 @@
+{
+  "name": "N8N Workflow Market",
+  "description": "A marketplace for automation workflows powered by Payload CMS and Gemini AI search.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
